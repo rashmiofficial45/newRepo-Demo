@@ -1,2 +1,1 @@
-# TextUtils-react
-manipulate the texts
+Starting to learn github and git
